@@ -11,6 +11,12 @@ available to talk.
 
 ---
 
+## Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-souza-89a1a0240) 
+
+---
+
 ##  My Skills:
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/></code>
