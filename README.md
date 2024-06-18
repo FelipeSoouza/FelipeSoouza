@@ -1,7 +1,13 @@
-##  Hi, my name is Felipe De Souza!
+##  Hello, i´m Felipe De Souza!
 
 
- I'm 20 years old and I really like programming! I study at the large Institution Rio Branco (Granja Vianna, São Paulo) and I am looking for an opportunity in the area of systems development.
+ Currently studying Information Systems at the Rio Branco institution and I am a software developer with experience in C#, .NET, JavaScript, HTML/CSS and Python, with strong knowledge in databases such as MySQL.
+
+I value team collaboration and effective communication, always seeking to learn new technologies
+and keep up with market trends. I am open to new challenges and opportunities to contribute to the
+success of companies. If you are looking for a committed and results-oriented developer, I am
+available to talk.
+
 
 ---
 
@@ -14,5 +20,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
 
+---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSoouza&theme=dark&show_icons=true)
 
