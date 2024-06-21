@@ -27,3 +27,7 @@ available to talk.
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSoouza&theme=dark&show_icons=true)
+
+<a href="https://github.com/FelipeSoouza/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeSoouza&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
